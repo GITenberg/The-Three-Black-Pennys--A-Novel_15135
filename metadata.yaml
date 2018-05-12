@@ -15,6 +15,8 @@ description: The New York Times called this 1917 novel of three generations of m
   from the wealthy Penny family in Pennsylvania an unbroken narrative of stirring
   realism. The story traces the effects of a love affair over more than a century,
   against the backdrop of the rise of the steel industry.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15135#The-Three-Black-Pennys--A-Novel
 gutenberg_bookshelf: Contemporary Reviews
 gutenberg_issued: '2005-02-21'
 gutenberg_type: Text
