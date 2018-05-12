@@ -1,0 +1,33 @@
+_repo: The-Three-Black-Pennys--A-Novel_15135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hergesheimer, Joseph
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '2218'
+    url: http://www.gutenberg.org/2009/agents/2218
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
+description: The New York Times called this 1917 novel of three generations of men
+  from the wealthy Penny family in Pennsylvania an unbroken narrative of stirring
+  realism. The story traces the effects of a love affair over more than a century,
+  against the backdrop of the rise of the steel industry.
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pennsylvania -- Fiction'
+- !lcsh 'Steel industry and trade -- Fiction'
+- !lcsh 'Family -- Fiction'
+title: 'The Three Black Pennys: A Novel'
+url: http://www.gutenberg.org/ebooks/15135
